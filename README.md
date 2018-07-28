@@ -7,5 +7,4 @@ Note: Just for windows platforms
 
 # How to use
 1. Open command prompt in the EasyNetworking Directory
-2. EasyNetworking 
-3. -n <SSID> -p <Password> -u %username%
+2. EasyNetworking -n <SSID> -p <Password> -u %username%
