@@ -6,6 +6,6 @@ Note: Just for windows platforms
 - Just Extract 'EasyNetWorking.exe' and open enjoy!
 
 # How to use
-1. Disable UAC (set it on NeverNotify)
-2. Open command prompt in the EasyNetworking Directory
-3. EasyNetworking 
+1. Open command prompt in the EasyNetworking Directory
+2. EasyNetworking 
+3. -n <SSID> -p <Password> -u %username%
