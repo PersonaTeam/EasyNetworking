@@ -4,6 +4,6 @@ Just for windows platforms
 Follow the steps in ReadMe.rtf
 
 # Requirement
-network interface card (NIC) 
+Network Interface Vard (NIC) 
 
 Python 3
