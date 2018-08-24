@@ -1,5 +1,5 @@
 # Advanced Wireless Network Creator ( LAN Wireless Network ) 
-# Code By Mohammad Abbasi
+# Coded By Mohammad Abbasi
 # Available on Windows Platforms ( xp - 7 - 10 )
 # The program written with Python 3.6
 
@@ -26,13 +26,13 @@ Options :
      --start    Enable Network Settings
      --stop     Disabel Network Settings 
                     
-     ForExample (Start): ENW-Client.py --Start \n
-     ForExample (Stop) : ENW-Client.py --Stop 
+     Example (Start): ENW-Client.py --Start \n
+     Example (Stop) : ENW-Client.py --Stop 
                     
                              ^_^ 
 
      # Advanced Wireless Network Creator ( LAN Wireless Network ) 
-     # Code By Mohammad Abbasi
+     # Coded By Mohammad Abbasi
      # Available on Windows Platforms ( xp - 7 - 10 )""")
 
 
@@ -52,7 +52,7 @@ Options :
         time.sleep (2)
         print ("\n [*] Thank You For Using EasyNetworking ")
         time.sleep (2)
-        print ("\n [*] Follow Me In GitHub & Telegram  .")
+        print ("\n [*] Follow Us In GitHub & Telegram  .")
         time.sleep (2)
         print (""" \n
              [*] https://t.me/Avestar
@@ -71,7 +71,7 @@ Options :
                time.sleep (2)
                print ("\n [*] Thank You For Using EasyNetworking ")
                time.sleep (2)
-               print ("\n [*] Follow Me In GitHub & Telegram.")
+               print ("\n [*] Follow Us In GitHub & Telegram.")
                time.sleep (2)
                print (""" \n
              [*] https://t.me/Avestar
@@ -79,7 +79,7 @@ Options :
              [*] https://github.com/PersonaTeam """)
         
     elif sys.argv[1] != "--stop" or sys.argv[1] != "--start" or sys.argv[1] != "-h" :
-        print (" Wrong Comment ! ")
+        print (" Wrong Syntax ! ")
         time.sleep (2)
         os.system ("cls")
         Help ()          
