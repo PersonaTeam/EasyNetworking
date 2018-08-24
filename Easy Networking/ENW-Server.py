@@ -27,12 +27,12 @@ Options :
      -u         User Accounts Name
      -s         Stop Network \n  
                     
-     ForExample: ENW-Server.py  -n mohammad -p 1234 -u User \n 
+     Example: ENW-Server.py  -n mohammad -p 1234 -u User \n 
                     
                              ^_^ 
 
      # Advanced Wireless Network Creator ( LAN Wireless Network ) 
-     # Code By Mohammad Abbasi
+     # Coded By Mohammad Abbasi
      # Available on Windows Platforms ( xp - 7 - 10 )""")
 
 
@@ -56,7 +56,7 @@ Options :
         time.sleep (2)
         print ("\n [*] Thank You For Using EasyNetworking ")
         time.sleep (2)
-        print ("\n [*] Follow Me In GitHub & Telegram  .")
+        print ("\n [*] Follow Us In GitHub & Telegram  .")
         time.sleep (2)
         print ("""\n
              [*] https://t.me/Avestar
@@ -104,11 +104,11 @@ Options :
         os.system ("""netsh advfirewall firewall set rule group="Network Discovery" new enable=Yes""")
         os.system ("cls")
         time.sleep (2)
-        print(" [+] Wireless Network Was Activated With Name {} (Share File And Enjoy To Use)".format(sys.argv[2]))
+        print(" [+] Wireless Network Has Been Activated With Name {} (Share File And Enjoy To Use)".format(sys.argv[2]))
         time.sleep (2)
         print ("\n [*] Thank You For Using EasyNetworking ")
         time.sleep (2)
-        print ("\n [*] Follow Me In GitHub & Telegram .")
+        print ("\n [*] Follow Us In GitHub & Telegram .")
         time.sleep (2)
         print ("""\n
              [*] https://t.me/Avestar
