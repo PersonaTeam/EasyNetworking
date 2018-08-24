@@ -1,7 +1,9 @@
-# EasyNetworking
+# Easy Networking
 Advanced Wireless Network Creator!
 Just for windows platforms
-
-# How to use
-You need a network interface card (NIC) and Python 3 !
 Follow the steps in ReadMe.rtf
+
+# Requirement
+network interface card (NIC) 
+
+Python 3
